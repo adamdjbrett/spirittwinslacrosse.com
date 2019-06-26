@@ -4,15 +4,15 @@ title: 'About'
 sitemap: true
 permalink: /about/
 ---
-
+## About Spirit Twins™️
 At Spirit Twins Lacrosse™️, we are committed to emphasizing the values of this great game of lacrosse through our clinics and individual sessions.
 
 Our unique teaching/playing style has been deemed a _hybrid_, which combines both indoor (Box) and Field lacrosse. We give our athletes a unique experience of improving their abilities on the field by learning the fundamentals of Box lacrosse. This is a unique opportunity for your child to learn the basic principals of this ancient Haudenosaunee game. The _hybrid_ style is based on the stick skills, physicality and IQ of a Box player, combined with the dodging and endurance of a field player. Coaches at Spirit Twins Lacrosse™️ are adept at educating and helping players to quickly implement these skills on to the playing field.
 
-### Vision Statement:
+### Meet Our Coaches
 
-Through our clinics and individual lessons, we focus on developing a hybrid of techniques used in both Box and Field lacrosse. By helping to impart the values of this indigenous game, we hope to better prepare your child for the direction this game is moving, while imparting the values needed to engage your child in a life of respect, commitment, responsibility, and gratitude.
-
+- [Clay Arnold](clay-arnold)
+- Kroy Arnold
 
 
 ### Program Elements
