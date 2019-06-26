@@ -54,7 +54,13 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+defaults:
+  # _bio
+  - scope:
+      path: ""
+      type: bio
+    values:
+      layout: page
 # Gems
 gems:
   - jekyll-feed

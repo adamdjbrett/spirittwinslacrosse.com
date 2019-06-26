@@ -1,12 +1,8 @@
 ---
 layout: page
-title: "Alexander O. Smith - Curriculum Vitae"
-description: "Economist and Information Scientist"
-permalink: /cv.html
-image: "images/theplayground2.jpg"
-imageattribution: "Alexander O. Smith"
-imageattributionlink: https://aos11409.github.io/AboutAlexander/
-block_share_bottom: true
+title: "Clay Arnold"
+description: "Defense/Transition Coach"
+image: "images/clay-arnold.jpg"
 ---
 
 <button class="btn align-right print-content-button">Print</button>
@@ -14,17 +10,17 @@ block_share_bottom: true
 <div class="print-content">
 
 {% capture pageContent %}
-{% assign cv = site.data.cv %}
-# {{ cv.details.name }}
-{% if cv.details.blurb %}
-### {{ cv.details.blurb }}
+{% assign cv = site.data.clay-cv %}
+# {{ clay-cv.details.name }}
+{% if clay-cv.details.blurb %}
+### {{ clay-cv.details.blurb }}
 {% endif %}
 
-{% if cv.details.email %}Email: **<a href="mailto:{{ cv.details.email }}">{{ cv.details.email }}</a>**<br />{% endif %}
-{% if cv.details.phone %}Phone: **{{ cv.details.phone }}**<br />{% endif %}
-{% if cv.details.location %}Location: **{{ cv.details.location }}**<br />{% endif %}
+{% if clay-cv.details.email %}Email: **<a href="mailto:{{ clay-cv.details.email }}">{{ clay-cv.details.email }}</a>**<br />{% endif %}
+{% if clay-cv.details.phone %}Phone: **{{ clay-cv.details.phone }}**<br />{% endif %}
+{% if clay-cv.details.location %}Location: **{{ clay-cv.details.location }}**<br />{% endif %}
 
-{% for section in cv.sections %}
+{% for section in clay-cv.sections %}
 ## {{ section.title }}
 {% if section.request %}
 ### {{section.title}} available on request
