@@ -3,6 +3,7 @@ layout: page
 title: "Clay Arnold"
 description: "Defense/Transition Coach"
 image: "images/clay-arnold.jpg"
+permalink: /bio/clay-arnold/
 ---
 
 <button class="btn align-right print-content-button">Print</button>
