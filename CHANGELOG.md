@@ -1,4 +1,5 @@
 # Spirit Twins
 - add bios
-  - maybe as a collection and using cv.yaml?
+  - Finish editing Clays bio
 - disable projects  
+- create a directory for bios or figure out how to make portfolio work
