@@ -50,6 +50,11 @@ instagram:          spirittwinslax
 #hackernews:        username
 #behance:           username
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Gems
 gems:
   - jekyll-feed
