@@ -4,7 +4,7 @@ title: 'Clinics'
 sitemap: true
 permalink: /clinics/
 ---
-![Boston Clinic Poster]({{ site.url }}/images/boston-clinic.jpg.jpg)
+![Boston Clinic Poster](/images/boston-clinic.jpg)
 
 ## Spirit Twins Box Lacrosse Clinic
 
