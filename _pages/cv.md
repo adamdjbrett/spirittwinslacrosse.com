@@ -2,7 +2,7 @@
 layout: page
 title: "Alexander O. Smith - Curriculum Vitae"
 description: "Economist and Information Scientist"
-permalink: /cv/
+permalink: /cv.html
 image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
 imageattributionlink: https://aos11409.github.io/AboutAlexander/
