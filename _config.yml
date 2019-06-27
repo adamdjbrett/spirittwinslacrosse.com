@@ -26,6 +26,21 @@ sass:
   sass_dir:         assets/_sass
   style:            compressed
 
+# Collections
+collections:
+  bios:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _bios
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      related: true
 
 # Social Links
 email:             spirittwinslacrosse@gmail.com
