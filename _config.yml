@@ -37,9 +37,9 @@ defaults:
   # _bios
   - scope:
       path: ""
-      type: posts
+      type: bios
     values:
-      layout: post
+      layout: page
       related: true
 
 # Social Links
