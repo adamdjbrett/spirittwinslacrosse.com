@@ -1,6 +1,6 @@
 ---
 title:  "Clay Arnold"
-headline: "Defense/Transition Lacrosse Coach"
+headline: "Offense/Transition Lacrosse Coach"
 image: "images/clay-arnold.jpg"
 ---
 

@@ -4,6 +4,7 @@ title: 'bios'
 sitemap: true
 permalink: /bios/
 ---
+
 <ul>
   {% for bios in site.bios %}
     <li>
