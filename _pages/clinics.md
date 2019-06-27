@@ -3,7 +3,7 @@ layout: page
 title: 'Clinics'
 sitemap: true
 permalink: /clinics/
-image: "images/clay-arnold.jpg"
+image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 ---
 ![Boston Clinic Poster](/images/boston-clinic.jpg)
 
