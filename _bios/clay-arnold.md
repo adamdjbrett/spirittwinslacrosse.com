@@ -1,5 +1,6 @@
 ---
 title:  "Clay Arnold"
+headline: "Defense/Transition Lacrosse Coach"
 ---
 
 ## Clay Arnold  
