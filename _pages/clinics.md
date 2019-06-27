@@ -3,6 +3,7 @@ layout: page
 title: 'Clinics'
 sitemap: true
 permalink: /clinics/
+image: "images/clay-arnold.jpg"
 ---
 ![Boston Clinic Poster](/images/boston-clinic.jpg)
 
