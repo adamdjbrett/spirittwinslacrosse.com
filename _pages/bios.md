@@ -4,7 +4,7 @@ title: 'bios'
 sitemap: true
 permalink: /bios/
 ---
-<h2>The Biographies of the Founder of Spirit Twins Lacrosse&trade;</h2>
+<h2>The Founders of Spirit Twins Lacrosse&trade;</h2>
 <ul>
   {% for bios in site.bios %}
     <li><h3>
