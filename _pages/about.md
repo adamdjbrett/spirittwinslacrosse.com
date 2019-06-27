@@ -11,8 +11,8 @@ Our unique teaching/playing style has been deemed a _hybrid_, which combines bot
 
 ### Meet Our Coaches
 
-- [Clay Arnold](clay-arnold)
-- Kroy Arnold
+- [Clay Arnold](/bios/clay-arnold/)
+- [Kroy Arnold](/bios/kroy-arnold/)
 
 
 ### Program Elements
