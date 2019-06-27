@@ -1,5 +1,5 @@
 ---
-title:  "About Clay Arnold"
+title:  "Clay Arnold"
 ---
 
 ## Clay Arnold  
