@@ -5,7 +5,7 @@ sitemap: true
 permalink: /clinics/
 image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 ---
-![Boston Clinic Poster](/images/boston-clinic.jpg)
+[![Boston Clinic Poster](/images/boston-clinic-300x394.jpg)](/images/boston-clinic-300x394.jpg)
 
 ## Spirit Twins Box Lacrosse Clinic
 
@@ -20,4 +20,4 @@ image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 *   **Cost:** $20 Per player
 *   Helmet, lacrosse stick, and gloves required
 
-#### [Register and pay via the signup form](/registration/)
+## [→ Register and pay via the signup form](/registration/)
