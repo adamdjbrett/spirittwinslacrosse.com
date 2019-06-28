@@ -21,3 +21,4 @@ image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 *   Helmet, lacrosse stick, and gloves required
 
 ## [→ Register and pay via the signup form](/registration/)
+<a href="/registration" class="btn_success">Signup</a>
