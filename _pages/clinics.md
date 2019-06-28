@@ -5,7 +5,7 @@ sitemap: true
 permalink: /clinics/
 image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 ---
-[![Boston Clinic Poster](/images/boston-clinic-300x394.jpg)](/images/boston-clinic-300x394.jpg)
+[![Boston Clinic Poster](/images/boston-clinic-300x394.jpg)](/images/boston-clinic.jpg)
 
 ## Spirit Twins Box Lacrosse Clinic
 
@@ -21,4 +21,4 @@ image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 *   Helmet, lacrosse stick, and gloves required
 
 ## [→ Register and pay via the signup form](/registration/)
-<a href="/registration" class="btn_success">Signup</a>
+[Register and pay via the signup form](/registration/){: .btn .btn_success}
