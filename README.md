@@ -1,7 +1,7 @@
 # [Spirit Twins Lacrosse](https://spirittwinslacrosse.com/)
 ## Halve by Taylan Tatlı  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
 Support Taylan Tatlı and this awesome theme.
-:lacrosse:
+![lacrosse emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)
 
 ## Modified Halve theme
 
@@ -11,9 +11,6 @@ This particular version of the theme was further modified by [Michael Standen @s
 To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
 
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
-
-## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
 
 See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
 
