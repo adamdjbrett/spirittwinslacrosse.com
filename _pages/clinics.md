@@ -6,7 +6,7 @@ image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 sitemap: true
 ---
 ## Spirit Twins Lacrosse Clinics  
-:boom: :lacrosse: :+1:
+
 
 
 <ul id="recent-articles">
