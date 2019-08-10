@@ -8,7 +8,7 @@ image: "/images/helmet.jpg"
 imageattribution: "Clay Arnold"
 imageattributionlink: spirittwinslacrosse.com
 categories:
-  - clinic
+  - clinics
 tags:
   - clinic
   - laxweekend19
