@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wooden Stick Festival Clinic"
-date: 2019-08-10T16:39
+date: 2019-09-28T00:00
 excerpt: "Spirit Twins Lacrosse will be doing a clinic at the Wooden Stick Festival"
 author: "Kroy Arnold"
 image: "/images/helmet.jpg"
