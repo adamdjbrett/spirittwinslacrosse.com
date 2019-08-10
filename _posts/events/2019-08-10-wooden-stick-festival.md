@@ -18,8 +18,7 @@ tags:
 Box clinic for 9-13 year olds.
 
 ## Spirit Twins Box Lacrosse Clinic
-### Boston, MA
-#### with Cambridge Nor'easters (IBLA2018 National Champions)
+### Onondaga Lake Park
 
 *   **When:** Saturday September 28-Sunday September 29, 2019
 *   **Where:** Onondaga Lake Park during the [Wooden Stick Festival](https://indigenousvalues.org/laxweekend19/)
