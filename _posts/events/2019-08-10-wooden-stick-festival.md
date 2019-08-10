@@ -27,4 +27,4 @@ Box clinic for 9-13 year olds.
 *   **Cost:** $20 Per player
 *   Helmet, lacrosse stick, and gloves required
 
-[** → Register and Pay**](/registration/){: .btn .btn_success}
+[→ Register and Pay](/registration/){: .btn .btn_success}
