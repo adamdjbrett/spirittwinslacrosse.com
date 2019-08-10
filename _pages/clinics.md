@@ -1,10 +1,11 @@
 ---
 layout: page
 title: 'Clinics'
-sitemap: true
 permalink: /clinics/
 image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
+sitemap: true
 ---
+
 <ul id="recent-articles">
     {% for post in site.categories["my-category"] limit:10 %}
         <li>
