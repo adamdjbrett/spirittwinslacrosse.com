@@ -27,13 +27,12 @@ sass:
   style:            compressed
 
 plugins:
-  - jemoji
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyl-include-cache
-  
+
 
 # Collections
 collections:
