@@ -62,7 +62,7 @@ instagram:          spirittwinslax
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -72,6 +72,11 @@ instagram:          spirittwinslax
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
+podcast:           'https://www.buzzsprout.com/1073554'
+apple:             'https://podcasts.apple.com/us/podcast/the-two-man-game-presented-by-spirit-twins-lacrosse/id1513782800'
+google:            'https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMDczNTU0LnJzcw=='
+spotify:           'https://open.spotify.com/show/33DGNJgMqyTB3gTLolf1Jn'
+
 
 # Gems
 gems:
