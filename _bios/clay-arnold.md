@@ -17,6 +17,10 @@ He also coached at Boston College High School for the 7th grade lacrosse team. W
 Clay Arnold comes from a lacrosse family where he and his twin brother grew up playing together and to this day are now coaching together and hope to do so in the future.  
 
 ### Recent Accomplishments
+- 2020
+  -	Box
+    - Won a Championship with the Philadelphia Phunk in the IBLA
+    - Played for the Six Nations Snipers in the Arena Lacrosse League (ALL)
 - 2019
   -	Box
     - Can-Am Current playing for the Onondaga Redhawks Sr.B
