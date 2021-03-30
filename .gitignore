@@ -3,4 +3,6 @@
 _site
 .DS_Store
 .icloud
+Gemfile.lock
+.gem
 /vendor/bundle
