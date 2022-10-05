@@ -45,7 +45,7 @@ layout: compress
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
         <br>
-        {% if !page.block_share_bottom %}
+        {% if page.block_share_bottom %}
           {% include share.html %}
         {% endif %}
         <br>
