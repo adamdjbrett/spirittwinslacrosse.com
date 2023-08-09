@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment) [![pages-build-deployment](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment/badge.svg?event=deployment_status)](https://github.com/adamdjbrett/spirittwinslacrosse.com/actions/workflows/pages/pages-build-deployment)
 
 # [Spirit Twins Lacrosse](https://spirittwinslacrosse.com/)
 ## Halve by Taylan Tatlı  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
