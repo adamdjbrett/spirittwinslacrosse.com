@@ -2,6 +2,7 @@
 layout: page
 title: 'bios'
 sitemap: true
+share: false
 permalink: /bios/
 ---
 <h2>The Founders of Spirit Twins Lacrosse&trade;</h2>
