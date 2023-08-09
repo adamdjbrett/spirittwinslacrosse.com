@@ -2,6 +2,7 @@
 layout: page
 title: 'About'
 sitemap: true
+share: false
 permalink: /about/
 ---
 ## About Spirit Twins&trade;

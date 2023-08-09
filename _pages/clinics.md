@@ -4,6 +4,7 @@ title: 'Clinics'
 permalink: /clinics/
 image: "images/wooden-lacrosse-stick-love-laxcon-min.jpg"
 sitemap: true
+share: false
 ---
 ## Spirit Twins Lacrosse Clinics  
 
